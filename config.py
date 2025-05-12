@@ -3,7 +3,7 @@
 # API 金鑰設定 (請替換為您自己的金鑰)
 # 注意：出於安全考量，不建議將API金鑰硬編碼在此處，尤其是在共享或版本控制的專案中。
 # 考慮使用環境變數或安全的配置文件管理器。
-API_KEY = 'vBBCf97ql9grnBzDu3PxPCeTRzgpVz9F1KruGJfeFCzwA36vXqcpOcSoOgQ1aIDU'  # 留空則表示使用公開API (如果交易所支持)
+API_KEY = ''  # 留空則表示使用公開API (如果交易所支持)
 API_SECRET = '' # 留空則表示使用公開API
 
 # 交易設定
